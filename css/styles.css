@@ -141,6 +141,9 @@ img {
 .header-contacts-link:hover, .header-contacts-link:focus {
     color: var(--color-hover);
 }
+.header-link:hover, .header-link:focus {
+    color: var(--color-hover);
+}
 
 
 /**!-------------------------HERO----------------------------!*/
